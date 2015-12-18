@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1401602908 source:d:\development\code blocks\practical application v2\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+
+1431457382 source:c:\users\acolin\desktop\practical application v2\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+
+1431453784 source:f:\practical application v2\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<graphics.h>
+
