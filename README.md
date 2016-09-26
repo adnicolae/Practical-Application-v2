@@ -1,2 +1,2 @@
-# Practical-Application-v2
-C++ implementation of Roy-Warshall algorithm and graphics library, using the railway as an example.
+# Roy Warshall Practical Application
+C++ implementation of the Roy-Warshall algorithm applied to a railway system demo that uses the graphics library to animate the printing of a rail ticket.
